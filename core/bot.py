@@ -1,7 +1,7 @@
 import telebot
 import os
 from datetime import datetime
-from core import picture_processor
+import picture_processor
 from telebot import types
 
 USER_PICTURES_PATH = os.path.abspath("./user_pictures/")
