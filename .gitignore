@@ -1,0 +1,7 @@
+# Project exclude paths
+.idea/
+/venv/
+/.DS_Store
+/user_pictures/*
+/resources/makeup.jpg
+/resources/temp.jpg
