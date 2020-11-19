@@ -1,7 +1,7 @@
 # PseudoVsratoslav-bot
 https://t.me/pseudovsratoslavbot
 
-This bot adds some meme phrases to the photos send to it and sends it back.  
+This bot adds some meme phrases to the photos sent to it and sends it back.  
 Also it has a feature of adding digital makeup to photos with recongized faces.
 Made as a copy of [this](https://t.me/vsratoslavbot) bot.
 
